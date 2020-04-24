@@ -1,7 +1,8 @@
 # 作业
 
 
-
+- 编写带括号的四则运算产生式
+https://codesandbox.io/s/arithmetic-interpreter-w94tk?file=/src/Calculator.js
 
 
 - 写一个正则表达式 匹配所有 Number 直接量
