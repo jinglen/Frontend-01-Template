@@ -2,6 +2,8 @@
 ##  我们如何用状态机处理完全未知的 pattern
 ### 源码
 https://codesandbox.io/s/kmp-string-matcher-r2voq   
+### 测试结果
+[test-result](./images/test-result.png)
 
 ### 思路
 1. 先根据 pattren 创建 pattren 每个字符对应的部分匹配值
