@@ -3,7 +3,7 @@
 ### 源码
 https://codesandbox.io/s/kmp-string-matcher-r2voq   
 ### 测试结果
-[test-result](./images/test-result.png)
+![test](./images/test-result.png)
 
 ### 思路
 1. 先根据 pattren 创建 pattren 每个字符对应的部分匹配值
